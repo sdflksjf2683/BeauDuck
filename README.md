@@ -2,8 +2,6 @@
 
 # 뷰덕 - BeauDuck 뷰티 서비스
 
-## 🐥 BeauDuck 링크 ( 웹 모바일 화면 ) : [https://i8b306.p.ssafy.io/](https://i8b306.p.ssafy.io/)
-
 <br>
 <br>
 
